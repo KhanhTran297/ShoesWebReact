@@ -1,0 +1,70 @@
+{
+  "sliders": [
+    {
+      "id": 1,
+      "category": "Nike Sport Shoes",
+      "title": "Nike Metcon Shoes",
+      "des": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Enimasperiores error in aperiam quas mollitia nemo inventore ab, optiomodi accusamus vitae quo, magnam aliquam officia nobis adipisci ea quaerat.",
+      "img": "./img/slide/1.png"
+    },
+    {
+      "id": 2,
+      "category": "Nike Sport Shoes",
+      "title": "Nike Metcon Shoes",
+      "des": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Enimasperiores error in aperiam quas mollitia nemo inventore ab, optiomodi accusamus vitae quo, magnam aliquam officia nobis adipisci ea quaerat.",
+      "img": "./img/slide/2.png"
+    },
+    {
+      "id": 3,
+      "category": "Nike Sport Shoes",
+      "title": "Nike Metcon Shoes",
+      "des": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Enimasperiores error in aperiam quas mollitia nemo inventore ab, optiomodi accusamus vitae quo, magnam aliquam officia nobis adipisci ea quaerat.",
+      "img": "./img/slide/3.png"
+    },
+    {
+      "id": 4,
+      "category": "Nike Sport Shoes",
+      "title": "Nike Metcon Shoes",
+      "des": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Enimasperiores error in aperiam quas mollitia nemo inventore ab, optiomodi accusamus vitae quo, magnam aliquam officia nobis adipisci ea quaerat.",
+      "img": "./img/slide/4.png"
+    }
+  ],
+  "Shoes": [
+    {
+      "id": 1,
+      "title": "NEW NIKE AIRMAC SHOES",
+      "color": "red",
+      "price": "200.000VND",
+      "pricesale": "150.000VND",
+      "des": " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dignissimos, repellendus magni alias, quibusdam rerum placeat sit ipsa velit dolorum nostrum hic laudantium commodi at quod voluptatem illum quae! Deserunt, optio!",
+      "img1": "./img/productred/1.jpg",
+      "img2": "./img/productred/2.jpg",
+      "img3": "./img/productred/3.jpg",
+      "img4": "./img/productred/4.jpg"
+    },
+    {
+      "id": 2,
+      "title": "NEW NIKE AIRMAC SHOES",
+      "color": "green",
+      "price": "200.000VND",
+      "pricesale": "150.000VND",
+      "des": " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dignissimos, repellendus magni alias, quibusdam rerum placeat sit ipsa velit dolorum nostrum hic laudantium commodi at quod voluptatem illum quae! Deserunt, optio!",
+      "img1": "./img/productgreen/1.jpg",
+      "img2": "./img/productgreen/2.jpg",
+      "img3": "./img/productgreen/3.jpg",
+      "img4": "./img/productgreen/4.jpg"
+    },
+    {
+      "id": 3,
+      "title": "NEW NIKE AIRMAC SHOES",
+      "color": "black",
+      "price": "200.000VND",
+      "pricesale": "150.000VND",
+      "des": " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dignissimos, repellendus magni alias, quibusdam rerum placeat sit ipsa velit dolorum nostrum hic laudantium commodi at quod voluptatem illum quae! Deserunt, optio!",
+      "img1": "./img/productblack/1.jpg",
+      "img2": "./img/productblack/2.jpg",
+      "img3": "./img/productblack/3.jpg",
+      "img4": "./img/productblack/4.jpg"
+    }
+  ]
+}
